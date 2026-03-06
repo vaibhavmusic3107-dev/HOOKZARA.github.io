@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap location — submit this URL to Google Search Console
+Sitemap: https://www.hookzara.com/sitemap.xml
+
+# Block any future admin or private folders
+Disallow: /admin/
+Disallow: /private/
